@@ -47,3 +47,8 @@ There are also as many villages as there are clients connected to the server. So
 ![Alt text](Illustrations/Genetic-distributed-Pathfinder_100gen.png)
 - After 2600 generations : the path is way better !
 ![Alt text](Illustrations/Genetic-distributed-Pathfinder_2600gen.png)
+
+## Requierements
+
+- [Qt](https://www.qt.io/)
+- [LibMaia](https://github.com/wiedi/libmaia)
