@@ -11,7 +11,7 @@ LIBS += $$PWD/libs/maia.lib
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-TARGET = ProjetSD_Central
+TARGET = Genetic_distributed_Pathfinder_Server
 TEMPLATE = app
 
 DEPENDPATH += .

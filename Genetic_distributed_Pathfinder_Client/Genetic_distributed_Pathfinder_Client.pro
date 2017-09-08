@@ -13,7 +13,7 @@ LIBS += $$PWD/libs/maia.lib
 DEPENDPATH += .
 INCLUDEPATH += .
 
-TARGET = ProjetSD_Client
+TARGET = Genetic_distributed_Pathfinder_Client
 CONFIG   += console
 CONFIG   -= app_bundle
 
