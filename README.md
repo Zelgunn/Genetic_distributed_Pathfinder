@@ -1,10 +1,10 @@
 # Genetic distributed Pathfinder
 
 ## Table of contents
-[The game](#the-game)
-[Genetic algorithms](#genetic-algorithms)
-[Screenshots](#screenshots)
-[Requierements](#requierements)
+[The game](#the-game)  
+[Genetic algorithms](#genetic-algorithms)  
+[Screenshots](#screenshots)  
+[Requierements](#requierements)  
 
 The aim of this project is not effeciency, pathfinders based on A* and Dijkstra are way better for this.  
 The goal here is to provide a fairly simple case for Genetic algorithms.  
